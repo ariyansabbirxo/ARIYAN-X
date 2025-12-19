@@ -1,1 +1,1 @@
-import ariyan
+import ariya
